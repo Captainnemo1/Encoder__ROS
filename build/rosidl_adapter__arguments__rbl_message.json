@@ -1,0 +1,6 @@
+{
+  "package_name": "rbl_message",
+  "non_idl_tuples": [
+    "/home/parzival523/ros2_ws/src/rbl_message:msg/Rbl.msg"
+  ]
+}

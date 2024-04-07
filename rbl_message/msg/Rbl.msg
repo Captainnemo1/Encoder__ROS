@@ -1,0 +1,3 @@
+bool bool_value
+int8 integer_value
+float32 float_value

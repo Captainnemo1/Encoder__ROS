@@ -1,0 +1,4 @@
+source;share/rbl_message/local_setup.bash
+source;share/rbl_message/local_setup.dsv
+source;share/rbl_message/local_setup.sh
+source;share/rbl_message/local_setup.zsh

@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "rbl_message__py",
+		"source" : "/home/parzival523/ros2_ws/src/build/rbl_message__py"
+	}
+}

@@ -1,0 +1,7 @@
+{
+  "package_name": "rbl_message",
+  "output_dir": "/home/parzival523/ros2_ws/src/build/rosidl_generator_type_description/rbl_message",
+  "idl_tuples": [
+    "/home/parzival523/ros2_ws/src/build/rosidl_adapter/rbl_message:msg/Rbl.idl"
+  ]
+}
